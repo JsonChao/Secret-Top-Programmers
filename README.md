@@ -2,7 +2,7 @@
 The way to cultivate top programmers
 
 
-## 一、灵魂之力—提升学习效率 99% 的学习秘籍
+## 一、灵魂之术—提升学习效率 99% 的学习秘籍
 
 主要归纳自：
 
