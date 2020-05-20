@@ -2,7 +2,7 @@
 The way to cultivate top programmers
 
 
-## 一、[灵魂之术—提升学习效率 99% 的学习秘籍](https://juejin.im/post/5eb168e9f265da7bb65fb27a)
+## 一、[灵魂之术—提升学习效率 99% 的学习秘籍](https://juejin.im/post/5eb168e9f265da7bb65fb27a)（已完成）
 
 主要归纳自：
 
@@ -11,7 +11,7 @@ The way to cultivate top programmers
 - **《精进 如何成为一个很厉害的人》（已完成，待记录）**
 
 
-## 二、震惊！生产力提效 300% 的秘诀全公开
+## 二、[震惊！生产力提效 300% 的秘诀全公开]()（已完成）
 
 主要归纳自：
 
@@ -21,7 +21,7 @@ The way to cultivate top programmers
 - **《番茄工作法图解》（已完成，待记录）**
 
 
-## 三、灵魂之力—自控力的强大力量    
+## 三、[灵魂之力—自控力的强大力量]()（进行中~）
 
 主要归纳自：
 
