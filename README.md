@@ -21,7 +21,7 @@ The way to cultivate top programmers
 - **《番茄工作法图解》（已完成，待记录）**
 
 
-## 三、[灵魂之力—自控力的强大力量]()（已完成）
+## 三、[灵魂之力—自控力的强大力量](https://juejin.im/post/5eeff9dbe51d4573cf6eba37)（已完成）
 
 主要归纳自：
 
